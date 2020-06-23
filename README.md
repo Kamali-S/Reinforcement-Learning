@@ -1,7 +1,6 @@
 # Reinforcement-Learning
 In this repository, there are 3 projects
 1. Implementation of Actor-Critic for CartPole environment available in gym
-  - Almost all the working is explained briefly inside the code block
   
 2. Deep Deterministic Off- Policy graident
    - It is based on a research paper
