@@ -1,2 +1,0 @@
-Hello madam, the implementation of Aircraft using deepQ model was not able converge properly. We have come half way and we are still working on it. We are facing difficulties in understanding the implementation part. So, we thought of doing another application of RL using Actor-Critic. We implemented Actor-Critic model using Cartpole. I have attached both the codes. We kindly request you to consider both of our work.
-Thank you!  
